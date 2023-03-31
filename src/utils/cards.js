@@ -13,7 +13,7 @@ export const initialCards = [
   },
   {
     name: "Проект 4",
-    link: "http://klublady.ru/uploads/posts/2022-02/1644966169_8-klublady-ru-p-krasivie-kapkeiki-foto-8.jpg",
+    link: "https://fanibani.ru/wp-content/uploads/2022/12/hivotnie-krasivo-foto-13-1.jpg",
   },
   {
     name: "Проект 5",
@@ -22,5 +22,17 @@ export const initialCards = [
   {
     name: "Проект 6",
     link: "https://mykaleidoscope.ru/uploads/posts/2022-07/1657319920_9-mykaleidoscope-ru-p-kapkeiki-yagodnie-vkusnyashki-krasivo-foto-10.jpg",
+  },
+  {
+    name: "Проект 7",
+    link: "https://vsegda-pomnim.com/uploads/posts/2022-03/1647611001_37-vsegda-pomnim-com-p-krasnoe-more-foto-37.jpg",
+  },
+  {
+    name: "Проект 8",
+    link: "https://s1.1zoom.ru/big3/174/Mountains_Houses_Georgia_Evening_Tbilisi_From_581179_4096x2732.jpg",
+  },
+  {
+    name: "Проект 9",
+    link: "https://img5.goodfon.ru/original/2048x1366/0/9f/igolki-fon-zverek-ezhik-frukty-iozhik-ezhi-ezh-iozh-3.jpg",
   },
 ];
