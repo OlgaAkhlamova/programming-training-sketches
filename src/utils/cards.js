@@ -21,7 +21,7 @@ export const initialCards = [
   },
   {
     name: "Проект 6",
-    link: "https://mykaleidoscope.ru/uploads/posts/2022-07/1657319920_9-mykaleidoscope-ru-p-kapkeiki-yagodnie-vkusnyashki-krasivo-foto-10.jpg",
+    link: "https://cakery.ru/image/cache/catalog/catalog/kapkejki/svadebnye/raznoe/22-svadebnye-kapkejki-so-svezhimi-jagodami-1000x1000.jpg",
   },
   {
     name: "Проект 7",
